@@ -1,0 +1,13 @@
+
+img {
+	transform:rotate(180deg);
+	-webkit-transform:rotate(180deg); /* Safari and Chrome */
+}
+
+div {
+	padding:2em;
+	margin:12px;
+	border:8px solid;
+	border-radius:32px;
+	-webkit-border-radius:32px; /* Safari */
+}
