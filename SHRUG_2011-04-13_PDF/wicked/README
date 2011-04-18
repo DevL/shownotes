@@ -1,1 +1,3 @@
 Very basic Rails application for demonstrating Wicked PDF integration.
+
+As of 2011-04-18, now works with Ruby 1.9.2.

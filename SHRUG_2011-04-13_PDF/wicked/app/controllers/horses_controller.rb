@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 class HorsesController < ApplicationController
   # GET /horses
   # GET /horses.xml

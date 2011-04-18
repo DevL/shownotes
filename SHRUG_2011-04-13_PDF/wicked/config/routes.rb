@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 Wicked::Application.routes.draw do
   resources :horses
 
