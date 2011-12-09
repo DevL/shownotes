@@ -11,3 +11,10 @@ div {
 	border-radius:32px;
 	-webkit-border-radius:32px; /* Safari */
 }
+
+.page-breaker {  
+	display: block;  
+	clear: both;  
+	page-break-after: always;  
+}  
+ 
